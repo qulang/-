@@ -1,0 +1,12 @@
+--cpu Cortex-M4.fp
+".\delay.o"
+".\spi.o"
+".\main.o"
+".\oled.o"
+".\sys.o"
+".\startup_stm32f40_41xxx.o"
+".\system_stm32f4xx.o"
+--strict --scatter ".\spi-old.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\spi-old.map" -o .\spi-old.axf

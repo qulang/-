@@ -1,0 +1,12 @@
+.\main.o: user\main.c
+.\main.o: .\app\sys.h
+.\main.o: D:\mdk\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include\stm32f4xx.h
+.\main.o: D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4.h
+.\main.o: D:\mdk\ARM\ARMCC\bin\..\include\stdint.h
+.\main.o: D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h
+.\main.o: D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h
+.\main.o: D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4_simd.h
+.\main.o: D:\mdk\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include\system_stm32f4xx.h
+.\main.o: .\app\delay.h
+.\main.o: .\spi\spi.h
+.\main.o: user\oled.h

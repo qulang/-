@@ -1,0 +1,12 @@
+.\flash.o: ..\app\flash.c
+.\flash.o: ..\app\flash.h
+.\flash.o: ..\app\sys.h
+.\flash.o: D:\mdk\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include\stm32f4xx.h
+.\flash.o: D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4.h
+.\flash.o: D:\mdk\ARM\ARMCC\bin\..\include\stdint.h
+.\flash.o: D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h
+.\flash.o: D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h
+.\flash.o: D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4_simd.h
+.\flash.o: D:\mdk\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include\system_stm32f4xx.h
+.\flash.o: D:\mdk\ARM\ARMCC\bin\..\include\stdlib.h
+.\flash.o: ..\app\delay.h

@@ -1,0 +1,10 @@
+.\output\spi.o: spi\spi.c
+.\output\spi.o: .\spi\spi.h
+.\output\spi.o: .\app\sys.h
+.\output\spi.o: D:\mdk\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include\stm32f4xx.h
+.\output\spi.o: D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4.h
+.\output\spi.o: D:\mdk\ARM\ARMCC\bin\..\include\stdint.h
+.\output\spi.o: D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h
+.\output\spi.o: D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h
+.\output\spi.o: D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4_simd.h
+.\output\spi.o: D:\mdk\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include\system_stm32f4xx.h

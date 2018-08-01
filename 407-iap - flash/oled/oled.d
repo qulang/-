@@ -1,0 +1,13 @@
+.\oled.o: user\oled.c
+.\oled.o: user\oled.h
+.\oled.o: .\app\sys.h
+.\oled.o: D:\mdk\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include\stm32f4xx.h
+.\oled.o: D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4.h
+.\oled.o: D:\mdk\ARM\ARMCC\bin\..\include\stdint.h
+.\oled.o: D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h
+.\oled.o: D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h
+.\oled.o: D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4_simd.h
+.\oled.o: D:\mdk\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include\system_stm32f4xx.h
+.\oled.o: .\spi\spi.h
+.\oled.o: user\oledfont.h
+.\oled.o: .\app\delay.h

@@ -1,0 +1,12 @@
+.\output\main.o: user\main.c
+.\output\main.o: .\app\sys.h
+.\output\main.o: D:\mdk\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include\stm32f4xx.h
+.\output\main.o: D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4.h
+.\output\main.o: D:\mdk\ARM\ARMCC\bin\..\include\stdint.h
+.\output\main.o: D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h
+.\output\main.o: D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h
+.\output\main.o: D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4_simd.h
+.\output\main.o: D:\mdk\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include\system_stm32f4xx.h
+.\output\main.o: .\app\delay.h
+.\output\main.o: .\spi\spi.h
+.\output\main.o: user\oled.h

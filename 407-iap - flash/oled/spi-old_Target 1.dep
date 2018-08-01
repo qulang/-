@@ -1,0 +1,65 @@
+Dependencies for Project 'spi-old', Target 'Target 1': (DO NOT MODIFY !)
+F (.\app\delay.c)(0x55BF04B1)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.\app -I.\spi -I.\user-I "C:\Users\13593\Desktop\407-iap - flash\oled\RTE"-I "C:\Users\13593\Desktop\407-iap - flash\oled\RTE\Device\STM32F407ZG"-I D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I D:\mdk\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include-D_RTE_ -DSTM32F40_41xxx-o .\output\delay.o --omf_browse .\output\delay.crf --depend .\output\delay.d)
+I (app\delay.h)(0x555D4A36)
+I (.\app\sys.h)(0x555D4ABD)
+I (D:\mdk\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include\stm32f4xx.h)(0x529EBB22)
+I (D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4.h)(0x538426C6)
+I (D:\mdk\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4_simd.h)(0x5302A2D0)
+I (D:\mdk\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include\system_stm32f4xx.h)(0x529EBB22)
+F (.\spi\spi.c)(0x5A251CF2)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.\app -I.\spi -I.\user-I "C:\Users\13593\Desktop\407-iap - flash\oled\RTE"-I "C:\Users\13593\Desktop\407-iap - flash\oled\RTE\Device\STM32F407ZG"-I D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I D:\mdk\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include-D_RTE_ -DSTM32F40_41xxx-o .\output\spi.o --omf_browse .\output\spi.crf --depend .\output\spi.d)
+I (.\spi\spi.h)(0x59DE2941)
+I (.\app\sys.h)(0x555D4ABD)
+I (D:\mdk\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include\stm32f4xx.h)(0x529EBB22)
+I (D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4.h)(0x538426C6)
+I (D:\mdk\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4_simd.h)(0x5302A2D0)
+I (D:\mdk\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include\system_stm32f4xx.h)(0x529EBB22)
+F (.\user\main.c)(0x5A2543EA)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.\app -I.\spi -I.\user-I "C:\Users\13593\Desktop\407-iap - flash\oled\RTE"-I "C:\Users\13593\Desktop\407-iap - flash\oled\RTE\Device\STM32F407ZG"-I D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I D:\mdk\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include-D_RTE_ -DSTM32F40_41xxx-o .\output\main.o --omf_browse .\output\main.crf --depend .\output\main.d)
+I (.\app\sys.h)(0x555D4ABD)
+I (D:\mdk\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include\stm32f4xx.h)(0x529EBB22)
+I (D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4.h)(0x538426C6)
+I (D:\mdk\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4_simd.h)(0x5302A2D0)
+I (D:\mdk\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include\system_stm32f4xx.h)(0x529EBB22)
+I (.\app\delay.h)(0x555D4A36)
+I (.\spi\spi.h)(0x59DE2941)
+I (user\oled.h)(0x59DE39EF)
+F (.\user\oled.c)(0x59DE39EF)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.\app -I.\spi -I.\user-I "C:\Users\13593\Desktop\407-iap - flash\oled\RTE"-I "C:\Users\13593\Desktop\407-iap - flash\oled\RTE\Device\STM32F407ZG"-I D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I D:\mdk\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include-D_RTE_ -DSTM32F40_41xxx-o .\output\oled.o --omf_browse .\output\oled.crf --depend .\output\oled.d)
+I (user\oled.h)(0x59DE39EF)
+I (.\app\sys.h)(0x555D4ABD)
+I (D:\mdk\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include\stm32f4xx.h)(0x529EBB22)
+I (D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4.h)(0x538426C6)
+I (D:\mdk\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4_simd.h)(0x5302A2D0)
+I (D:\mdk\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include\system_stm32f4xx.h)(0x529EBB22)
+I (.\spi\spi.h)(0x59DE2941)
+I (user\oledfont.h)(0x59DE2AA7)
+I (.\app\delay.h)(0x555D4A36)
+F (.\app\sys.c)(0x5A293B6F)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.\app -I.\spi -I.\user-I "C:\Users\13593\Desktop\407-iap - flash\oled\RTE"-I "C:\Users\13593\Desktop\407-iap - flash\oled\RTE\Device\STM32F407ZG"-I D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I D:\mdk\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include-D_RTE_ -DSTM32F40_41xxx-o .\output\sys.o --omf_browse .\output\sys.crf --depend .\output\sys.d)
+I (app\sys.h)(0x555D4ABD)
+I (D:\mdk\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include\stm32f4xx.h)(0x529EBB22)
+I (D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4.h)(0x538426C6)
+I (D:\mdk\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4_simd.h)(0x5302A2D0)
+I (D:\mdk\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include\system_stm32f4xx.h)(0x529EBB22)
+F (RTE\Device\STM32F407ZG\RTE_Device.h)(0x535F3E24)()
+F (RTE\Device\STM32F407ZG\startup_stm32f40_41xxx.s)(0x529EBB22)(--cpu Cortex-M4.fp -g --apcs=interwork -I "C:\Users\13593\Desktop\407-iap - flash\oled\RTE"-I "C:\Users\13593\Desktop\407-iap - flash\oled\RTE\Device\STM32F407ZG"-I D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I D:\mdk\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include--list .\startup_stm32f40_41xxx.lst --xref -o .\output\startup_stm32f40_41xxx.o --depend .\output\startup_stm32f40_41xxx.d)
+F (RTE\Device\STM32F407ZG\system_stm32f4xx.c)(0x529EBB22)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork -I.\app -I.\spi -I.\user-I "C:\Users\13593\Desktop\407-iap - flash\oled\RTE"-I "C:\Users\13593\Desktop\407-iap - flash\oled\RTE\Device\STM32F407ZG"-I D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include-I D:\mdk\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include-D_RTE_ -DSTM32F40_41xxx-o .\output\system_stm32f4xx.o --omf_browse .\output\system_stm32f4xx.crf --depend .\output\system_stm32f4xx.d)
+I (D:\mdk\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include\stm32f4xx.h)(0x529EBB22)
+I (D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4.h)(0x538426C6)
+I (D:\mdk\ARM\ARMCC\include\stdint.h)(0x53463A44)
+I (D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h)(0x5302A2D0)
+I (D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h)(0x5302A2D0)
+I (D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4_simd.h)(0x5302A2D0)
+I (D:\mdk\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include\system_stm32f4xx.h)(0x529EBB22)

@@ -1,0 +1,10 @@
+.\usmart_str.o: ..\USMART\usmart_str.c
+.\usmart_str.o: ..\USMART\usmart_str.h
+.\usmart_str.o: D:\mdk\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include\stm32f4xx.h
+.\usmart_str.o: D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4.h
+.\usmart_str.o: D:\mdk\ARM\ARMCC\bin\..\include\stdint.h
+.\usmart_str.o: D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h
+.\usmart_str.o: D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h
+.\usmart_str.o: D:\mdk\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4_simd.h
+.\usmart_str.o: D:\mdk\ARM\PACK\Keil\STM32F4xx_DFP\1.0.8\Device\Include\system_stm32f4xx.h
+.\usmart_str.o: ..\USMART\usmart.h
